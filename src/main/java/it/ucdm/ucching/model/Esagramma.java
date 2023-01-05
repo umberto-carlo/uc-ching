@@ -29,7 +29,7 @@ public class Esagramma {
         String[] ret = new String[this.linee.length];
 
         for (int i = 0; i < ret.length; i++) {
-            ret[i] = linee[i].getCodice();
+            ret[i] = linee[i].getNumero() + ". " + linee[i].getCodice();
         }
 
         return ret;

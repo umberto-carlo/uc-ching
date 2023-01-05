@@ -52,7 +52,7 @@ public class OracoloGenerator {
             int somma = monetaUno + monetaDue + monetaTre;
 
             linee[i] = ELinea.getLinea(somma);
-
+            System.out.println(linee[i].getCodice());
         }
 
         return new Oracolo(new Esagramma(linee));

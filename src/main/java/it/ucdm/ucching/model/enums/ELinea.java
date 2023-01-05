@@ -7,22 +7,22 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public enum ELinea {
-    YIN_MOBILE(6, "-X-", "- -") {
+    YIN_MOBILE(6, "--XX--", "--  --") {
         public ELinea getComplemento() {
             return YANG;
         }
     },
-    YANG(7, "---", "---") {
+    YANG(7, "------", "------") {
         public ELinea getComplemento() {
             return YANG;
         }
     },
-    YIN(8, "- -", "- -") {
+    YIN(8, "--  --", "--  --") {
         public ELinea getComplemento() {
             return YIN;
         }
     },
-    YANG_MOBILE(9, "-O-", "---") {
+    YANG_MOBILE(9, "--OO--", "------") {
         public ELinea getComplemento() {
             return YIN;
         }
