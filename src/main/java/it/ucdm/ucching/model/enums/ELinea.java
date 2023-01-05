@@ -11,9 +11,17 @@ public enum ELinea {
         public ELinea getComplemento() {
             return YANG;
         }
+
+        public ELinea getNonMobile() {
+            return YIN;
+        }
     },
     YANG(7, "------", "------") {
         public ELinea getComplemento() {
+            return YANG;
+        }
+
+        public ELinea getNonMobile() {
             return YANG;
         }
     },
@@ -21,10 +29,18 @@ public enum ELinea {
         public ELinea getComplemento() {
             return YIN;
         }
+
+        public ELinea getNonMobile() {
+            return YIN;
+        }
     },
     YANG_MOBILE(9, "--OO--", "------") {
         public ELinea getComplemento() {
             return YIN;
+        }
+
+        public ELinea getNonMobile() {
+            return YANG;
         }
     };
 
@@ -47,6 +63,8 @@ public enum ELinea {
     }
 
     public abstract ELinea getComplemento();
+
+    public abstract ELinea getNonMobile();
 
     public int getNumero() {
         return numero;

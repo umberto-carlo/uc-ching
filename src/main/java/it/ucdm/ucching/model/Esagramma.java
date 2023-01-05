@@ -44,4 +44,26 @@ public class Esagramma {
 
         return ret;
     }
+
+    public Trigramma getTrigrammaInferiore()
+    {
+        ELinea[] trigr = new ELinea[3];
+
+        trigr[0] = linee[3];
+        trigr[1] = linee[4];
+        trigr[2] = linee[5];
+
+        return new Trigramma(trigr);
+    }
+
+    public Trigramma getTrigrammaSuperiore()
+    {
+        ELinea[] trigr = new ELinea[3];
+
+        trigr[0] = linee[0];
+        trigr[1] = linee[1];
+        trigr[2] = linee[2];
+
+        return new Trigramma(trigr);
+    }
 }

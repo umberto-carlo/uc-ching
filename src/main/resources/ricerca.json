@@ -1,0 +1,324 @@
+{
+  "ricerca": [
+    {
+      "inferiore": [7,7,7],
+      "superiore": [7,7,7],
+      "numero": 1
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [7,7,8],
+      "numero": 43
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [7,8,7],
+      "numero": 14
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [7,8,8],
+      "numero": 34
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [8,7,7],
+      "numero": 9
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [8,7,8],
+      "numero": 5
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [8,8,7],
+      "numero": 26
+    },
+    {
+      "inferiore": [7,7,7],
+      "superiore": [8,8,8],
+      "numero": 11
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [7,7,7],
+      "numero": 10
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [7,7,8],
+      "numero": 58
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [7,8,7],
+      "numero": 38
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [7,8,8],
+      "numero": 54
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [8,7,7],
+      "numero": 61
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [8,7,8],
+      "numero": 60
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [8,8,7],
+      "numero": 41
+    },
+    {
+      "inferiore": [7,7,8],
+      "superiore": [8,8,8],
+      "numero": 19
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [7,7,7],
+      "numero": 13
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [7,7,8],
+      "numero": 49
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [7,8,7],
+      "numero": 30
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [7,8,8],
+      "numero": 55
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [8,7,7],
+      "numero": 37
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [8,7,8],
+      "numero": 63
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [8,8,7],
+      "numero": 22
+    },
+    {
+      "inferiore": [7,8,7],
+      "superiore": [8,8,8],
+      "numero": 36
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [7,7,7],
+      "numero": 25
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [7,7,8],
+      "numero": 17
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [7,8,7],
+      "numero": 21
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [7,8,8],
+      "numero": 51
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [8,7,7],
+      "numero": 42
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [8,7,8],
+      "numero": 3
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [8,8,7],
+      "numero": 27
+    },
+    {
+      "inferiore": [7,8,8],
+      "superiore": [8,8,8],
+      "numero": 24
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [7,7,7],
+      "numero": 44
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [7,7,8],
+      "numero": 28
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [7,8,7],
+      "numero": 50
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [7,8,8],
+      "numero": 32
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [8,7,7],
+      "numero": 57
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [8,7,8],
+      "numero": 48
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [8,8,7],
+      "numero": 18
+    },
+    {
+      "inferiore": [8,7,7],
+      "superiore": [8,8,8],
+      "numero": 46
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [7,7,7],
+      "numero": 6
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [7,7,8],
+      "numero": 47
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [7,8,7],
+      "numero": 64
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [7,8,8],
+      "numero": 40
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [8,7,7],
+      "numero": 59
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [8,7,8],
+      "numero": 29
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [8,8,7],
+      "numero": 4
+    },
+    {
+      "inferiore": [8,7,8],
+      "superiore": [8,8,8],
+      "numero": 7
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [7,7,7],
+      "numero": 33
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [7,7,8],
+      "numero": 31
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [7,8,7],
+      "numero": 56
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [7,8,8],
+      "numero": 62
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [8,7,7],
+      "numero": 53
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [8,7,8],
+      "numero": 39
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [8,8,7],
+      "numero": 52
+    },
+    {
+      "inferiore": [8,8,7],
+      "superiore": [8,8,8],
+      "numero": 15
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [7,7,7],
+      "numero": 12
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [7,7,8],
+      "numero": 45
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [7,8,7],
+      "numero": 35
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [7,8,8],
+      "numero": 16
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [8,7,7],
+      "numero": 20
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [8,7,8],
+      "numero": 8
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [8,8,7],
+      "numero": 23
+    },
+    {
+      "inferiore": [8,8,8],
+      "superiore": [8,8,8],
+      "numero": 2
+    }
+  ]
+}

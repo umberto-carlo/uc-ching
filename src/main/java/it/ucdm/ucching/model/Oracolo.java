@@ -4,9 +4,9 @@ import java.util.Optional;
 import java.util.function.Predicate;
 
 public class Oracolo {
-    public Esagramma esagramma;
+    private Esagramma esagramma;
 
-    public Optional<Esagramma> esagrammaComplementare;
+    private Optional<Esagramma> esagrammaComplementare;
 
     public Oracolo(Esagramma esa) {
         this.esagramma = esa;
