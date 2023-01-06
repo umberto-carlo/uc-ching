@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public enum ELinea {
-    YIN_MOBILE(6, "--XX--", "--  --") {
+    YIN_MOBILE(6, "--XX--") {
         public ELinea getComplemento() {
             return YANG;
         }
@@ -16,7 +16,7 @@ public enum ELinea {
             return YIN;
         }
     },
-    YANG(7, "------", "------") {
+    YANG(7, "------") {
         public ELinea getComplemento() {
             return YANG;
         }
@@ -25,7 +25,7 @@ public enum ELinea {
             return YANG;
         }
     },
-    YIN(8, "--  --", "--  --") {
+    YIN(8, "--  --") {
         public ELinea getComplemento() {
             return YIN;
         }
@@ -34,7 +34,7 @@ public enum ELinea {
             return YIN;
         }
     },
-    YANG_MOBILE(9, "--OO--", "------") {
+    YANG_MOBILE(9, "--OO--") {
         public ELinea getComplemento() {
             return YIN;
         }
@@ -54,12 +54,9 @@ public enum ELinea {
 
     private String codice;
 
-    private String stampa;
-
-    ELinea(int numero, String codice, String stampa) {
+    ELinea(int numero, String codice) {
         this.numero = numero;
         this.codice = codice;
-        this.stampa = stampa;
     }
 
     public abstract ELinea getComplemento();
@@ -72,10 +69,6 @@ public enum ELinea {
 
     public String getCodice() {
         return codice;
-    }
-
-    public String getStampa() {
-        return stampa;
     }
 
     public static ELinea getLinea(int numero) {

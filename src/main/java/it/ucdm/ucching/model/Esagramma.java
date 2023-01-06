@@ -39,7 +39,7 @@ public class Esagramma {
         String[] ret = new String[this.linee.length];
 
         for (int i = 0; i < ret.length; i++) {
-            ret[i] = linee[i].getStampa();
+            ret[i] = linee[i].getNonMobile().getCodice();
         }
 
         return ret;
