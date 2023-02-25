@@ -49,7 +49,7 @@ public class Oracolo {
             String[] leLinee = this.esagramma.getRigheStampa();
 
             for (int i = 0; i < leLinee.length; i++) {
-                ret += leLinee + "\n";
+                ret += leLinee[i] + "\n";
             }
         }
         return ret;
